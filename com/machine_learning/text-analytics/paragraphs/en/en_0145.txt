@@ -1,0 +1,1 @@
+Studies related to Wikipedia have been using machine learning and artificial intelligence to support various operations. One of the most important areas—automatic detection of vandalism[380][381] and data quality assessment in Wikipedia,[382] may include different measures for articles and infoboxes.[208]
