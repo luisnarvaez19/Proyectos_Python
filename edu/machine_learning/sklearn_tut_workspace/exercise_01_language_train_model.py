@@ -6,7 +6,7 @@ recognize natural languages by using the frequencies of short character
 sequences as 'fingerprints'.
 
 """
-# Author: Olivier Grisel <olivier.grisel@ensta.org>
+# Author: Olivier Grisel <olivier.grisel@ensta.com>
 # License: Simplified BSD
 
 import sys

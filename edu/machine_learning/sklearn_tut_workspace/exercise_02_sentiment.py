@@ -8,7 +8,7 @@ positive or negative.
 In this examples we will use a movie review dataset.
 
 """
-# Author: Olivier Grisel <olivier.grisel@ensta.org>
+# Author: Olivier Grisel <olivier.grisel@ensta.com>
 # License: Simplified BSD
 
 import sys
